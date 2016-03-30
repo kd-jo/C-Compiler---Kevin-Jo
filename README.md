@@ -1,9 +1,9 @@
 # C-Compiler---Kevin-Jo
 C Compiler with basic functionality
 
-Example of syntax shown in test_SA3_1.c
+For linux.
 
-Linux:
+A simple example can be seen in the addition.c file.
 
 To install:
 
@@ -17,3 +17,8 @@ To play tic tac toe:
 
 1. Download the zip.
 2. run "./TicTacToe.sh"
+
+To run simple addition:
+
+1. Download the zip.
+2. run "./addition.sh"
