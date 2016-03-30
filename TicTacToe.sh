@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $USER
 rm quad.q
-bin/pcc test_FI_8.c
+bin/pcc tictactoe.c
 echo
 echo
 echo "TEST FI $1"
