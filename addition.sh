@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $USER
 rm quad.q
-bin/pcc test_SA3_$1.c
+bin/pcc addition.c
 echo
 echo "TEST SA3 $1"
 echo
